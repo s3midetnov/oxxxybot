@@ -1,1 +1,0 @@
-https://api.telegram.org/bot5144418335:AAFdEv7iDUt422XedkvTt87U9iXKFxE8aeo/sendMessage?chat_id=654593536&text={}
